@@ -1,7 +1,15 @@
-a {
-  text-decoration: none;
-}
-
 body {
     background-image: url("background.jpg");
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    font-size: 100px;
+}
+
+a {
+  text-decoration: none;
 }
